@@ -3,9 +3,7 @@ bachelors diploma at moscow power engineering institute
 
 ## Bakground
 
-https://github.com/dpetriev/app-for-modelling-and-visualize-/commit/c7ec3890a545b22d62400bc7053a1a1152b40db4
-
-(https://github.com/dpetriev/app-for-modelling-and-visualize-/raw/master/{path}/v1szut4yfww.jpg)
+![Screenshot](v1szut4yfww.jpg)
 
 This work is devoted to modeling and visualization of the electric field in the capacitor based on the boundary element method using the Python ecosystem. The two-dimensional and three-dimensional axisymmetric case is considered.
 These experiments are necessary to increase the area of uniform distribution of tension in the interelectrode space. Increasing the maximum area of the uniform area is achieved by changing the shape of the electrodes.
