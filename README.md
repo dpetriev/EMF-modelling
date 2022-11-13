@@ -1,5 +1,5 @@
-# app-for-modelling-and-visualize-
-bachelors diploma at moscow power engineering institute 
+# Application for modelling and visualization of electro-magnetic fields
+Bachelors diploma at Moscow Power Engineering Institute (NRU MPEI)
 
 ## Background
 
